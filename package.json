@@ -51,12 +51,7 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.5",
-    "@fluentui/eslint-plugin": "*",
-    "@fluentui/storybook": "*",
     "@types/d3-format": "^3.0.0",
-    "@types/d3-fetch": "^3.0.1",
-    "@fluentui/scripts-webpack": "*",
-    "@fluentui/scripts-cypress": "*",
-    "@fluentui/scripts-tasks": "*"
+    "@types/d3-fetch": "^3.0.1"
   }
 }
